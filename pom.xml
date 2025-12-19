@@ -235,8 +235,8 @@
         <!-- Annotations -->
         <dependency>
             <groupId>org.jetbrains</groupId>
-            <artifactId>annotations-java5</artifactId>
-            <version>23.1.0</version>
+            <artifactId>annotations</artifactId>
+            <version>26.0.2-1</version>
             <scope>provided</scope>
         </dependency>
         <!-- JUnit -->
